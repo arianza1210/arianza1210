@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Bagus!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Currently studying at Lampung University, but I like to learn new things in Programming such as Machine Learning, Computer Vision, Python.
 
 ### Tools:
 <p>
@@ -22,18 +22,14 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
-</p>
+
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://instagram.com/pandi_arianza12/" target="blank"><img src="https://img.shields.io/appveyor/build/pandi/badge?label=pandi_arianza12&logo=instagram&logoColor=white&style=plastic" /></a>
+    <a href="https://twitter.com/PArianza" target="blank"><img src="https://img.shields.io/appveyor/build/pandi/badge?label=%40PArianza&logo=twitter&style=plastic" /></a>
+    <a href="https://web.facebook.com/pandibareparianza.arianza" target="blank"><img src="https://img.shields.io/appveyor/build/pandi/badge?label=Pandi%20Barep%20Arianza&logo=facebook&style=plastic" /></a>
+
 </p>
 
 <!--
