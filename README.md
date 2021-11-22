@@ -26,9 +26,9 @@ Currently studying at Lampung University, but I like to learn new things in Prog
 
 ### Let's connect!
 <p>
-    <a href="https://instagram.com/pandi_arianza12/" target="blank"><img src="https://img.shields.io/appveyor/build/pandi/badge?label=pandi_arianza12&logo=instagram&logoColor=white&style=plastic" /></a>
-    <a href="https://twitter.com/PArianza" target="blank"><img src="https://img.shields.io/appveyor/build/pandi/badge?label=%40PArianza&logo=twitter&style=plastic" /></a>
-    <a href="https://web.facebook.com/pandibareparianza.arianza" target="blank"><img src="https://img.shields.io/appveyor/build/pandi/badge?label=Pandi%20Barep%20Arianza&logo=facebook&style=plastic" /></a>
+    <a href="https://instagram.com/pandi_arianza12" target="blank"><img src="https://img.shields.io/twitter/url?label=Pandi_arianza12&logo=Instagram&style=social&url=https%3A%2F%2Finstagram.com%2Fpandi_arianza12" /></a>
+    <a href="https://twitter.com/PArianza" target="blank"><img src="https://img.shields.io/twitter/follow/PArianza?style=social" /></a>
+    <a href="https://web.facebook.com/pandibareparianza.arianza" target="blank"><img src="https://img.shields.io/twitter/url?label=Pandi%20Barep%20Arianza&logo=facebook&style=social&url=https%3A%2F%2Fweb.facebook.com%2Fpandibareparianza.arianza" /></a>
 
 </p>
 
