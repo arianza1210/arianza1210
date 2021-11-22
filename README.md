@@ -1,6 +1,21 @@
 # Hi there 👋 , I'm Pandi!
 Currently studying at Lampung University, but I like to learn new things in Programming such as Machine Learning, Computer Vision, Python.
 
+---
+
+<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif"/>
+
+---
+
+<a href="https://github.com/Tnembull/WebLanjut/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Tucilweb&theme=vue-dark" />
+</a>
+<a href="https://github.com/Tnembull/TAM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza12&repo=AlarmMagaerTAM&theme=vue-dark" />
+</a>
+
+---
+
 
 ### Stats:
 <details>
