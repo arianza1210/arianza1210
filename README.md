@@ -7,10 +7,10 @@ Currently studying at Lampung University, but I like to learn new things in Prog
 
 ---
 
-<a href="https://github.com/Tnembull/WebLanjut/">
+<a href="https://github.com/arianza1210/Tucilweb/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Tucilweb&theme=vue-dark" />
 </a>
-<a href="https://github.com/Tnembull/TAM">
+<a href="https://github.com/arianza1210/mobilelanjut">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=mobilelanjut&theme=vue-dark" />
 </a>
 
@@ -40,8 +40,4 @@ Currently studying at Lampung University, but I like to learn new things in Prog
     <a href="https://web.facebook.com/pandibareparianza.arianza" target="blank"><img src="https://img.shields.io/twitter/url?label=Pandi%20Barep%20Arianza&logo=facebook&style=social&url=https%3A%2F%2Fweb.facebook.com%2Fpandibareparianza.arianza" /></a>
 
 </p>
-----
 
-[instagram]: https://instagram.com/pandi_arianza12/
-[twitter]: https://twitter.com/PArianza
-[github]: https://github.com/arianza1210/
