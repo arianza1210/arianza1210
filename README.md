@@ -31,7 +31,7 @@ Currently studying at Lampung University, but I like to learn new things in Prog
  <summary><b>What i am learning/working on these days</b></summary>
     - 🔭 I’m currently studying computer vision</br>
     - 🌱 I’m currently learning Python</br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
+    - 🤔 I’m looking for help with master of programming. hehe </br> 
     - 📫 How to reach me: <a href="mailto:pandiarianza2000.com">Email me!</a>  </br>
 </details>
 
