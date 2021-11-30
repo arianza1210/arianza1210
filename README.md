@@ -16,6 +16,9 @@ Currently studying at Lampung University, but I like to learn new things in Prog
 <a href="https://github.com/arianza1210/Tugas0-EtikaProfesi/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Tugas0-EtikaProfesi&theme=vue-dark" />
 </a>
+<a href="https://github.com/arianza1210/ComputerVision/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=ComputerVision&theme=vue-dark" />
+</a>
 
 ---
 
