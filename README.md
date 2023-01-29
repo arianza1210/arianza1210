@@ -13,8 +13,8 @@ Currently studying at Lampung University, but I like to learn new things in Prog
 <a href="https://github.com/arianza1210/mobilelanjut">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=mobilelanjut&theme=vue-dark" />
 </a>
-<a href="https://github.com/arianza1210/Data_Analyst/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Data_Analyst&theme=vue-dark" />
+<a href="https://github.com/arianza1210/Data_Scientist/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Data_Scientist&theme=vue-dark" />
 </a>
 <a href="https://github.com/arianza1210/ComputerVision/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=ComputerVision&theme=vue-dark" />
