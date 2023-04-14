@@ -27,10 +27,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=ComputerVision&theme=vue-dark" />
 </a>
 
-<p align="center">
-<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif"/>
-</p>
-
 ---
 
 <details>	
