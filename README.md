@@ -13,10 +13,6 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=arianza1210&color=grey">
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif"/>
-</p>
-
 
 <a href="https://github.com/arianza1210/Tucilweb/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Tucilweb&theme=vue-dark" />
@@ -30,6 +26,10 @@
 <a href="https://github.com/arianza1210/ComputerVision/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=ComputerVision&theme=vue-dark" />
 </a>
+
+<p align="center">
+<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif"/>
+</p>
 
 ---
 
