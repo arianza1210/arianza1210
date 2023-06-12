@@ -1,5 +1,5 @@
 ## Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm [Pandi Barep Arianza](https://github.com/arianza1210/)
-<p align="center">Currently studying at Lampung University, but I like to learn new things in Programming such as Machine Learning, Computer Vision, Python.</p>
+<p align="center">Currently studying at Lampung University, but I like to learn new things in Programming such as Data  Scientist, Machine Learning, Computer Vision, and Python Programming.</p>
 <img align="left" src="https://miro.medium.com/v2/resize:fit:640/0*tJNzGYRLWKLKC3Io.gif" width="20%" style="display:inline;"><img align="right" src="https://miro.medium.com/v2/resize:fit:640/0*tJNzGYRLWKLKC3Io.gif" width="20%" style="display:inline;">
 <br>
 <p align="center">
