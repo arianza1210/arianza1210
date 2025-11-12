@@ -14,8 +14,8 @@
 </p>
 
 
-<a href="https://github.com/arianza1210/Tucilweb/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Tucilweb&theme=vue-dark" />
+<a href="https://github.com/arianza1210/Ai_Project/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=Ai_Project&theme=vue-dark" />
 </a>
 <a href="https://github.com/arianza1210/mobilelanjut">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arianza1210&repo=mobilelanjut&theme=vue-dark" />
